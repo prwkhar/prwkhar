@@ -1,15 +1,21 @@
-<p>
+<!-- Banner -->
+<p align="center">
   <img src="https://github.com/prwkhar/prwkhar/raw/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%">
 </p>
-# 🚀 Prakhar Agarwal | Full Stack Developer 💻 
+
+<h1 align="center">🚀 Prakhar Agarwal | Full Stack Developer 💻</h1>
+
 🎓 3rd-year student at **MIT Manipal** | 👨‍💻 Passionate about Web & Mobile Development  
+
 ---
+
 ## ⚡ Tech Stack  
 | **Languages** | **Web** | **Frameworks** | **Databases** | **Tools** |
 |--------------|--------|--------------|--------------|--------|
 | Java, C, C++, JavaScript, PHP | HTML, CSS, Tailwind CSS | React, Next.js, React Native, Node.js, Bootstrap | MongoDB, Mongoose, Firebase | Git, VS Code, Eclipse |
 
 ---
+
 ## 📊 GitHub Stats  
 <table>
   <tr>
@@ -21,7 +27,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ## 📬 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/prakhar-agarwal-29b330233/">
