@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=prwkhar&theme=dark&show_icons=true&cache_seconds=180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=prwkhar&theme=dark&show_icons=true&cache_seconds=10" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prwkhar&layout=compact&theme=dark" />
