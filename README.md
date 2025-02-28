@@ -8,7 +8,7 @@
 ⚛️ **Frameworks:** React, Next.js, React Native, Node.js, Bootstrap  
 🗄️ **Databases:** MongoDB, Mongoose, Firebase  
 🛠️ **Tools:** Git, VS Code, Eclipse  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ## 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PrakharAgarwal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prakhar-agarwal-29b330233/)  
 📧 **Email:** [prakharagarwal1434@gmail.com](mailto:prakharagarwal1434@gmail.com)  
