@@ -26,6 +26,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prwkhar&layout=compact&theme=dark&cache_seconds=10" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prwkhar&theme=dark&hide_border=false" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -38,5 +43,3 @@
   <br>
   📧 **Email:** <a href="mailto:prakharagarwal1434@gmail.com">prakharagarwal1434@gmail.com</a>  
 </p>
-
-
