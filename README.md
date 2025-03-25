@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.vercel.app/?user=prwkhar&theme=dark&hide_border=false&cache_seconds=86400" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=prwkhar&theme=dark&hide_border=false" />
     </td>
   </tr>
 </table>
