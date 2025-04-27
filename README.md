@@ -7,7 +7,6 @@
 
 <p align="center">🎓 3rd-year student at **MIT Manipal** | 👨‍💻 Working on Web & Mobile Development | Learning Gen AI </p>  
 
-![Profile views](https://komarev.com/ghpvc/?username=prakharagarwal1434&label=Profile%20views&color=0e75b6&style=flat)  
 
 ---
 
@@ -22,21 +21,23 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=prwkhar&theme=dark&show_icons=true&cache_seconds=10" />
+      <img src="https://github-readme-stats.vercel.app/api?username=prakharagarwal1434&theme=dark&show_icons=true&cache_seconds=10" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prwkhar&layout=compact&theme=dark&cache_seconds=10"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharagarwal1434&layout=compact&theme=dark&cache_seconds=10"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prwkhar&theme=dark&hide_border=false&date_format=%5BY.%5Dm.d" />
-    </td>
-    <td>
-      ![Profile views](https://komarev.com/ghpvc/?username=prakharagarwal1434&label=Profile%20views&color=0e75b6&style=flat) 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharagarwal1434&theme=dark&hide_border=false&date_format=%5BY.%5Dm.d" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prakharagarwal1434&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 
 ---
 
