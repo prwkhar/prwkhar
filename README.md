@@ -5,7 +5,8 @@
 
 <h1 align="center">Prakhar Agarwal | Full Stack Developer 💻</h1>
 
-<p align="center">🎓 3rd-year student at **MIT Manipal** | 👨‍💻 Working on Web & Mobile Development | Learning Gen AI </p>
+<p align="center">🎓 3rd-year student at **MIT Manipal** | 👨‍💻 Working on Web & Mobile Development | Learning Gen AI </p>  
+![Profile views](https://komarev.com/ghpvc/?username=prakharagarwal1434&label=Profile%20views&color=0e75b6&style=flat)  
 
 ---
 
