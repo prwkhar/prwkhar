@@ -5,7 +5,7 @@
 
 <h1 align="center">Prakhar Agarwal | Full Stack Developer 💻</h1>
 
-<p1 align="center">🎓 3rd-year student at **MIT Manipal** | 👨‍💻 Working on Web & Mobile Development | Learning Gen AI </p1>
+<p align="center">🎓 3rd-year student at **MIT Manipal** | 👨‍💻 Working on Web & Mobile Development | Learning Gen AI </p>
 
 ---
 
