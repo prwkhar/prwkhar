@@ -18,7 +18,7 @@
 ---
 
 ## 📊 GitHub Stats  
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=prwkhar&theme=dark&show_icons=true&cache_seconds=10" />
